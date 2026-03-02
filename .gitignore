@@ -3,4 +3,4 @@ tmp/        # игнорировать подкаталог tmp и всё вну
 *_backup    # файлы, оканчивающиеся на _backup
 
 Thumbs.db
-.DS_Store 
+.DS_Store
